@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on many things
-- 💬 Ask me about ...
+- 💬 Ask me about whatever
+
+This file is of this is copyright © 2024 JF Mourgues
+CC-BY-ND
 
 
